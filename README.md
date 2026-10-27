@@ -5,6 +5,7 @@ I enjoy coding, graphic design and photography.
 
 ## 🚀 Projects
 - **Nazar AI** – an app that detects AI deepfakes (frontend & design) → [Repo](https://github.com/VedantGupta-vsg)
+-  [Repo](https://github.com/akshit-python-programmer/Nazar-AI)
 
 ## 🛠️ Skills
 Python • TensorFlow • Git & GitHub
