@@ -11,7 +11,7 @@ I enjoy coding, graphic design and photography.
 Python • TensorFlow • Git & GitHub
 
 ## 📫 Connect
-- Portfolio: [your link here](https://your-portfolio-link)
+- Portfolio: [vedant-builds-beyond.lovable.app](https://vedant-builds-beyond.lovable.app/)
 - LinkedIn: [Vedant Sandeep Gupta](https://linkedin.com/in/vedant-sandeep-gupta-96b32a423)
 
 <!--
